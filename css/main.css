@@ -1,22 +1,27 @@
-
-h1 {
-	font-family: 'Amatic SC', cursive:
-	font-size: 32px;
-	color: #2e69a3;
-}
-.header{
-	background-image:
+body {
+		background-image:
 	url("https://www.motionbackgroundsforfree.com/wp-content/uploads/2016/04/700-min.jpg");
   background-position: center top;
   background-size: cover;
-  margin: 0;
-font-family: 'Sedgwick Ave', cursive;
-} 
-
-p {
-	color: black;
+}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	color: #2e69a3;
+	text-align: center;
+}
+.header {
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 20px;
+	color: #212F3D;
+	text-align: center;
 }
 
+.Info {
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+	color: #212F3C;
+}
 
 
   
