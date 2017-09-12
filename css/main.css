@@ -4,6 +4,8 @@ body {
   background-position: center top;
   background-size: cover;
   min-width: 640px;
+  width: 94%;
+  margin:3%;
 }
 h1 {
 	font-family: 'Amatic SC', cursive;
@@ -28,6 +30,4 @@ h1 {
 	font-family: 'Lobster', cursive;
 	font-size: 24px;
 	color: black;
-	padding-left: 120px;
-	padding-right: 120px;
 }
