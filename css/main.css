@@ -3,6 +3,7 @@ body {
 	url("https://images5.alphacoders.com/567/567954.jpg");
   background-position: center top;
   background-size: cover;
+  min-width: 640px;
 }
 h1 {
 	font-family: 'Amatic SC', cursive;
