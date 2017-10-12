@@ -41,3 +41,23 @@ h1 {
 	padding-left: 24px;
 	padding-right: 24px;
 }
+
+/* unvisited link */
+a:link {
+    color: #B3B6B7;
+}
+
+/* visited link */
+a:visited {
+    color: #B3B6B7;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
