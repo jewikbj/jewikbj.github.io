@@ -4,6 +4,9 @@ margin: 0;
   background-color: white;
   background-position: center top;
   background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height; 100vh;
 }
 .frontPage {
 	font-family: 'Sedgwick Ave', cursive;
@@ -84,7 +87,9 @@ text-decoration: none;
 	background-position: center bottom;
 }
 
-
+div.spacer {
+	flex: 1;
+}
 
 
 
