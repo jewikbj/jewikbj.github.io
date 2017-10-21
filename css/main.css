@@ -91,9 +91,34 @@ div.spacer {
 	flex: 1;
 }
 
+.introMobile {
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 45px;
+	color: black;
+	text-align: center;
+}
 
+.introMobile2 {
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
 
+.infoMobile {
+	font-family: 'Lobster', cursive;
+	font-size:10px;
+	color: black;
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
 
+.header1{
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 10px;
+	color: black;
+	text-align: center;
 
 
 
